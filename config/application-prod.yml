@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: conexa-chalenger-1
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+conexa-chalenger-1-service:
+  greeting: "Olá"
+  default-value: "Mundo"
