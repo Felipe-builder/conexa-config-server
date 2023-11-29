@@ -1,6 +1,6 @@
 spring:
   application:
-    name: conexa-chalenger-1
+    name: greeting-service
 management:
   endpoints:
     web:
